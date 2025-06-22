@@ -12,7 +12,7 @@ A simple, responsive calculator web application built using **React.js**. This i
 
 ## 🎥 Demo Video
 
-👉 [Watch the Demo on YouTube](https://drive.google.com/file/d/163sM-aj3z70syB7Z363u8OxnYRycg6T-/view?usp=sharing)
+👉 [Watch the Demo](https://drive.google.com/file/d/163sM-aj3z70syB7Z363u8OxnYRycg6T-/view?usp=sharing)
 
 ## 💡 Features
 
@@ -38,3 +38,25 @@ calculator-app/
 │ └── App.css
 ├── package.json
 └── README.md
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+   git clone [https://github.com/Piruthvin/Calculator-Using-React.git](https://github.com/Piruthvin/Calculator-Using-React.git)  (in cmd)
+   cd calculator-app  (in cmd)
+   
+2.Install dependencies:
+npm install(in cmd)
+
+3.Start the development server:
+npm start (in cmd)
+
+4.The app will run on http://localhost:3000
+
+📬 Connect with Me
+🔗 LinkedIn(www.linkedin.com/in/mps1201)
+🔗 Gmail(piruthvinarun@gmail.com)
+🔗 Phone(+91 8754481778)
+
+🙌 Acknowledgements
+Thanks to the React community and tutorials that helped guide this project.
