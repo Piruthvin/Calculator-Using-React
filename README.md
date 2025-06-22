@@ -4,7 +4,7 @@ A simple, responsive calculator web application built using **React.js**. This i
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live app on Netlify](https://calculator-react.netlify.app)
+🔗 [Click here to view the live app on Netlify]([https://calculator-react.netlify.app](https://devserver-main--piruthvincalculator-app.netlify.app))
 
 ## 📸 Screenshot
 
